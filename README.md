@@ -6,3 +6,4 @@ gym
 
 epsilon = 0.05
 learning_rate = 0.5
+python 3.9
